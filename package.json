@@ -1,6 +1,7 @@
 {
   "name": "task-runner",
   "scripts": {
-    "task-cli": "node index.js"
+    "task-cli": "node index.js",
+    "test": "node --test"
   }
 }
